@@ -39,9 +39,6 @@ Young Somalian learning different pathways, always hungry to explore beyond
 </p>
 
 ## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=lebombastic&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebombastic&layout=compact"><p>
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=lebombastic&peng=false)](https://github.com/lebombastic/github-stats) [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=lebombastic&pie=false)](https://github.com/lebombastic/github-stats)
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lebombastic"><p>
