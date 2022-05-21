@@ -29,15 +29,6 @@ Young Somalian learning different pathways, always hungry to explore beyond
 <a href="https://www.instagram.com/lemeabdo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=lebombastic">
-</p>
-
 ## 📊 Github Status
 [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=lebombastic&peng=false)](https://github.com/lebombastic/github-stats) [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=lebombastic&pie=false)](https://github.com/lebombastic/github-stats)
 
